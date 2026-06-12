@@ -4,6 +4,7 @@ teams:
       - ryjones
     members:
       - jwagantall
+      - SeanBohan
       - thelinuxfoundation
   - name: semantic-frameworks-maintainers
     maintainers:
