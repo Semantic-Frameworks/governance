@@ -6,33 +6,33 @@ teams:
       - jwagantall
       - SeanBohan
       - thelinuxfoundation
-  - name: semantic-frameworks-maintainers
+  - name: accountable-impact-commons-maintainers
     maintainers:
-      - AlfonsoGovela
       - AlexIvanHoward
+      - AlfonsoGovela
     members:
       - christiaanpauw
-      - liamswan
       - JSPApril
+      - liamswan
 repositories:
   - name: governance
     teams:
+      accountable-impact-commons-maintainers: write
       lf-staff: maintain
-      semantic-frameworks-maintainers: write
     visibility: public
   - name: aiao
     teams:
-      semantic-frameworks-maintainers: maintain
+      accountable-impact-commons-maintainers: maintain
     visibility: public
   - name: claimont
     teams:
-      semantic-frameworks-maintainers: maintain
+      accountable-impact-commons-maintainers: maintain
     visibility: public
   - name: impactont
     teams:
-      semantic-frameworks-maintainers: maintain
+      accountable-impact-commons-maintainers: maintain
     visibility: public
   - name: infocomm
     teams:
-      semantic-frameworks-maintainers: maintain
+      accountable-impact-commons-maintainers: maintain
     visibility: public
